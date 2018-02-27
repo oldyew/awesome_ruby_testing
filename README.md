@@ -3,17 +3,19 @@
 Environment Management
 
 rbenv - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
+
 RVM - RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+
 Pik - Multi-Ruby Manager for Windows.
 
 HTTP Clients and tools
 
 Http Client - Gives something like the functionality of libwww-perl (LWP) in Ruby.
+
 RESTClient - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 
 Package Management
 
-Gems
 Bundler - Manage your application's gem dependencies with less pain.
 
 Mocking
