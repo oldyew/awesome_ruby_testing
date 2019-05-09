@@ -33,15 +33,38 @@
 
 ## Web UI test automation
 
-### Libraries
+### Browsers
 
-* Selenium WebDriver - This gem provides Ruby bindings for WebDriver.
-* API Taster - A quick and easy way to visually test your Rails application's API.
-* Watir - Web application testing in Ruby.
-* Watir-webdriver - The most elegant way to use WebDriver with ruby.
-* Poltergeist - Poltergeist is a driver for Capybara. It allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
-* PhantomJS - is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
-* unobtainium - configuration driven wrapper for Selenium WebDriver and appium, with PhantomJS support.
+* IExplore
+* Edge
+* Firefox
+* Chrome
+* Safari
+* Android
+* iOS
+
+### Drivers
+
+* selenium
+* selenium_grid
+* appium
+* webkit
+* poltergeist
+* phantomjs
+* sauce
+* crossbrowsertesting
+* headless_chrome
+
+### Frameworks/Libraries
+
+* Watir
+* Capybara
+
+### Test Runner
+
+* RSpec
+* Cucumber
+* MiniTest
 
 ### Page Objects
 
@@ -49,6 +72,8 @@
 * watirsome - Awesome page objects with Watir.
 * widgeon - Yet another 'page objects for Capybara' gem with ability to create custom loadable elements akka 'widgets'
 * Site Prism - A Page Object Model DSL for Capybara
+* test-page
+* watir drops
 
 ### Extensions
 
